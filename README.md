@@ -7,7 +7,7 @@
    OUR LATEST RELEASE !
   <br></br>
    <a href="https://github.com/OkupaSofware/ProjectSpace/releases/tag/v1.0.0-gold">
-<img src=https://user-images.githubusercontent.com/79087129/149678110-83dfc612-c203-4e8c-a510-2f0e3201f402.gif width=45%>
+<img src=https://user-images.githubusercontent.com/79087129/149678110-83dfc612-c203-4e8c-a510-2f0e3201f402.gif width=50%>
 </a>
  <br></br>
  CLICK ON THE IMAGE TO GO TO THE RELEASE PAGE
